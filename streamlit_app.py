@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
        "texts": ["김민주는 현재 배우로 활동하는 전 아이돌입니다."],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR967C-Cm2hcqJ9CAV5e6pXmncj7dc44-PI7Q&s"],
        "videos": ["https://www.youtube.com/watch?v=wmkf6wb0M_M"]
      },
 }
