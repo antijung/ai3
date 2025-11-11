@@ -74,6 +74,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR967C-Cm2hcqJ9CAV5e6pXmncj7dc44-PI7Q&s"],
        "videos": ["https://www.youtube.com/watch?v=wmkf6wb0M_M"]
      },
+
+     labels[1]: {
+       "texts": ["김채원은 현재 르세라핌로 활동하는 아이돌입니다."],
+       "images": ["https://img.seoul.co.kr/img/upload/2023/01/18/SSC_20230118154034.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=FhG0tK7hQNU&list=RDFhG0tK7hQNU&start_radio=1"]
+     },
 }
 
 # ======================
