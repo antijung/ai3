@@ -80,8 +80,17 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://img.seoul.co.kr/img/upload/2023/01/18/SSC_20230118154034.jpg"],
        "videos": ["https://www.youtube.com/watch?v=FhG0tK7hQNU&list=RDFhG0tK7hQNU&start_radio=1"]
      },
+     labels[2]: {
+       "texts": ["조유리는 현재 아이돌로 활동하고 오징어게임, 술꾼도시여자들에 나온 배우입니다."],
+       "images": ["https://images.khan.co.kr/article/2025/01/07/news-p.v1.20250107.6aaa0e3feba34c36a2fb18a399e32111_P1.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=FhG0tK7hQNU&list=RDFhG0tK7hQNU&start_radio=1"]
+     },
+     labels[3]: {
+       "texts": ["최예나는 현재 아이돌로 활동하고 있습니다. 히트곡으로는 smiley가 있습니다."],
+       "images": ["https://i.namu.wiki/i/wM1NIm8GSJ_N4aQZG8Yph6E3OML46jhX1W6N6cs5K_bOvKVlp6iWhPizLlKOiYOKLbUwtSvCcph6qzE2tNK7xA.webp"],
+       "videos": ["https://www.youtube.com/watch?v=8uOzzxFBDVM&list=RD8uOzzxFBDVM&start_radio=1"]
+     },
 }
-
 # ======================
 # 유틸
 # ======================
