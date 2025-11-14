@@ -83,7 +83,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[2]: {
        "texts": ["조유리는 현재 아이돌로 활동하고 오징어게임, 술꾼도시여자들에 나온 배우입니다."],
        "images": ["https://images.khan.co.kr/article/2025/01/07/news-p.v1.20250107.6aaa0e3feba34c36a2fb18a399e32111_P1.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=FhG0tK7hQNU&list=RDFhG0tK7hQNU&start_radio=1"]
+       "videos": ["https://www.youtube.com/watch?v=rlJH6eGsyAw&lc=UgwA4I9Ccb3y0wJek654AaABAg"]
      },
      labels[3]: {
        "texts": ["최예나는 현재 아이돌로 활동하고 있습니다. 히트곡으로는 smiley가 있습니다."],
