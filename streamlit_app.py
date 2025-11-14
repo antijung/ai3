@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
        "texts": ["김민주는 현재 배우로 활동하는 전 아이돌입니다."],
-       "images": ["https://image.ajunews.com/content/image/2019/08/08/20190808011206557080.jpg"], ["https://www.chosun.com/resizer/v2/ZVJ55QNZXLSSPWWO3XAKKELECA.jpg?auth=b1ddfb175f5b41a1f7503942204ae5b1ca9dac1651e0e68c7fabbf97a5f419b8&width=616"]
+       "images": ["https://image.ajunews.com/content/image/2019/08/08/20190808011206557080.jpg"], ["https://www.chosun.com/resizer/v2/ZVJ55QNZXLSSPWWO3XAKKELECA.jpg?auth=b1ddfb175f5b41a1f7503942204ae5b1ca9dac1651e0e68c7fabbf97a5f419b8&width=616"],
        "videos": ["https://www.youtube.com/watch?v=wmkf6wb0M_M"]
      },
 
